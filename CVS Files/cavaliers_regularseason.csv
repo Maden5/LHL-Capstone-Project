@@ -1,0 +1,247 @@
+id,date,home_team_score,period,postseason,season,status,visitor_team_score,home_team.id,home_team.abbreviation,home_team.city,home_team.conference,home_team.division,home_team.full_name,home_team.name,visitor_team.id,visitor_team.abbreviation,visitor_team.city,visitor_team.conference,visitor_team.division,visitor_team.full_name,visitor_team.name,outcome,latitude,longitude
+31090,2015-10-27,97,4,False,2015,Final,95,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,41.880692,-87.67437
+31093,2015-10-28,76,4,False,2015,Final,106,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.138056,-90.050556
+28882,2015-10-30,102,4,False,2015,Final,92,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat,WIN,41.496389,-81.688056
+28664,2015-11-02,100,4,False,2015,Final,107,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.901111,-75.171944
+28666,2015-11-04,96,4,False,2015,Final,86,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,WIN,41.496389,-81.688056
+31103,2015-11-06,108,4,False,2015,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,WIN,41.496389,-81.688056
+29033,2015-11-08,101,4,False,2015,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+27830,2015-11-10,118,4,False,2015,Final,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,WIN,41.496389,-81.688056
+30426,2015-11-13,84,4,False,2015,Final,90,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+29839,2015-11-14,108,4,False,2015,Final,105,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.0389,-87.9065
+29044,2015-11-17,104,4,False,2015,Final,99,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.341111,-83.055
+31110,2015-11-19,115,4,False,2015,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+29047,2015-11-21,109,4,False,2015,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,WIN,41.496389,-81.688056
+29049,2015-11-23,117,4,False,2015,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,WIN,41.496389,-81.688056
+32177,2015-11-25,103,4,False,2015,Final,99,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.643475,-79.379379
+32431,2015-11-27,90,4,False,2015,Final,95,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.2271,-80.8431
+31611,2015-11-28,90,4,False,2015,Final,88,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+32741,2015-12-01,85,4,False,2015,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,LOSS,41.496389,-81.688056
+29062,2015-12-04,114,4,False,2015,Final,108,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.949167,-90.081944
+27302,2015-12-05,99,4,False,2015,Final,84,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,25.781441,-80.188332
+32579,2015-12-08,105,4,False,2015,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,WIN,41.496389,-81.688056
+31623,2015-12-11,76,4,False,2015,Final,111,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,28.539167,-81.383611
+32018,2015-12-15,77,4,False,2015,Final,89,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+27409,2015-12-17,104,4,False,2015,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,WIN,41.496389,-81.688056
+29073,2015-12-20,108,4,False,2015,Final,86,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,WIN,41.496389,-81.688056
+32023,2015-12-23,91,4,False,2015,Final,84,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,WIN,41.496389,-81.688056
+27417,2015-12-25,89,4,False,2015,Final,83,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+28052,2015-12-26,105,4,False,2015,Final,76,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,45.531944,-122.666667
+27419,2015-12-28,97,4,False,2015,Final,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.445833,-112.071389
+27846,2015-12-29,87,4,False,2015,Final,93,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.74892,-105.0084
+28204,2016-01-02,104,4,False,2015,Final,79,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,WIN,41.496389,-81.688056
+27424,2016-01-04,122,4,False,2015,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+27852,2016-01-06,115,4,False,2015,Final,121,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.898129,-77.021172
+32605,2016-01-08,99,4,False,2015,Final,125,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,44.979444,-93.276111
+28065,2016-01-10,85,4,False,2015,Final,95,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.901111,-75.171944
+27430,2016-01-12,107,4,False,2015,Final,110,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,32.790527,-96.810883
+29463,2016-01-14,99,4,False,2015,Final,95,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.426944,-98.4375
+28068,2016-01-15,77,4,False,2015,Final,91,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,29.750833,-95.362222
+28909,2016-01-18,98,4,False,2015,Final,132,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056
+28074,2016-01-20,78,4,False,2015,Final,91,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.682732,-73.975876
+28075,2016-01-21,115,4,False,2015,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,13,LAC,LA,West,Pacific,LA Clippers,Clippers,WIN,41.496389,-81.688056
+28913,2016-01-23,83,4,False,2015,Final,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,LOSS,41.496389,-81.688056
+29270,2016-01-25,114,4,False,2015,Final,107,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,WIN,41.496389,-81.688056
+29943,2016-01-27,115,4,False,2015,Final,93,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,WIN,41.496389,-81.688056
+30913,2016-01-29,106,4,False,2015,Final,114,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.341111,-83.055
+27446,2016-01-30,117,4,False,2015,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,WIN,41.496389,-81.688056
+27551,2016-02-01,106,4,False,2015,Final,111,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.763889,-86.155556
+28088,2016-02-03,106,4,False,2015,Final,97,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,35.2271,-80.8431
+28213,2016-02-05,103,4,False,2015,Final,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,LOSS,41.496389,-81.688056
+28095,2016-02-06,99,4,False,2015,Final,84,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,WIN,41.496389,-81.688056
+27558,2016-02-08,120,4,False,2015,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,WIN,41.496389,-81.688056
+28217,2016-02-10,120,4,False,2015,Final,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,WIN,41.496389,-81.688056
+28106,2016-02-18,106,4,False,2015,Final,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,WIN,41.496389,-81.688056
+28117,2016-02-21,92,4,False,2015,Final,115,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.4634,-97.5151
+28937,2016-02-22,88,4,False,2015,Final,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,LOSS,41.496389,-81.688056
+32061,2016-02-24,114,4,False,2015,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,WIN,41.496389,-81.688056
+29276,2016-02-26,99,4,False,2015,Final,97,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.643475,-79.379379
+28223,2016-02-28,113,4,False,2015,Final,99,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,38.898129,-77.021172
+29883,2016-02-29,100,4,False,2015,Final,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+29891,2016-03-04,108,4,False,2015,Final,83,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,WIN,41.496389,-81.688056
+29975,2016-03-05,120,4,False,2015,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+29979,2016-03-07,103,4,False,2015,Final,106,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,LOSS,41.496389,-81.688056
+28233,2016-03-09,111,4,False,2015,Final,120,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.5816,-121.4944
+30928,2016-03-10,108,4,False,2015,Final,120,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,34.043087,-118.267616
+29991,2016-03-13,90,4,False,2015,Final,114,13,LAC,LA,West,Pacific,LA Clippers,Clippers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,34.043087,-118.267616
+29994,2016-03-14,94,4,False,2015,Final,85,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,40.7608,-111.891
+29301,2016-03-16,99,4,False,2015,Final,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,WIN,41.496389,-81.688056
+30004,2016-03-18,103,4,False,2015,Final,109,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,28.539167,-81.383611
+30008,2016-03-19,122,4,False,2015,Final,101,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,25.781441,-80.188332
+29314,2016-03-21,124,4,False,2015,Final,91,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,WIN,41.496389,-81.688056
+30934,2016-03-23,113,4,False,2015,Final,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+29325,2016-03-24,104,4,False,2015,Final,95,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,40.682732,-73.975876
+29334,2016-03-26,93,4,False,2015,Final,107,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+29347,2016-03-29,100,4,False,2015,Final,106,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,LOSS,41.496389,-81.688056
+30962,2016-03-31,107,4,False,2015,Final,87,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+30972,2016-04-01,108,4,False,2015,Final,110,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+32787,2016-04-03,112,4,False,2015,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,WIN,41.496389,-81.688056
+33468,2016-04-05,80,4,False,2015,Final,109,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.0389,-87.9065
+32779,2016-04-06,123,4,False,2015,Final,109,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+32790,2016-04-09,105,4,False,2015,Final,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,41.880692,-87.67437
+32929,2016-04-11,109,4,False,2015,Final,94,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,WIN,41.496389,-81.688056
+35649,2016-04-13,110,4,False,2015,Final,112,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,LOSS,41.496389,-81.688056
+33922,2016-10-25,117,4,False,2016,Final,88,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,WIN,41.496389,-81.688056
+34555,2016-10-28,91,4,False,2016,Final,94,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+34692,2016-10-29,105,4,False,2016,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,WIN,41.496389,-81.688056
+33930,2016-11-01,128,4,False,2016,Final,120,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,WIN,41.496389,-81.688056
+34425,2016-11-03,128,4,False,2016,Final,122,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+34561,2016-11-05,101,4,False,2016,Final,102,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.901111,-75.171944
+34295,2016-11-08,106,4,False,2016,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,LOSS,41.496389,-81.688056
+35506,2016-11-11,94,4,False,2016,Final,105,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.898129,-77.021172
+35236,2016-11-13,100,4,False,2016,Final,93,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,WIN,41.496389,-81.688056
+34163,2016-11-15,121,4,False,2016,Final,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33943,2016-11-16,103,4,False,2016,Final,93,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+35112,2016-11-18,104,4,False,2016,Final,81,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+35381,2016-11-23,137,4,False,2016,Final,125,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,WIN,41.496389,-81.688056
+32816,2016-11-25,128,4,False,2016,Final,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,WIN,41.496389,-81.688056
+34055,2016-11-27,108,4,False,2016,Final,112,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.901111,-75.171944
+35523,2016-11-29,118,4,False,2016,Final,101,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.0389,-87.9065
+35124,2016-12-01,94,4,False,2016,Final,113,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,13,LAC,LA,West,Pacific,LA Clippers,Clippers,LOSS,41.496389,-81.688056
+32939,2016-12-02,111,4,False,2016,Final,105,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,41.880692,-87.67437
+33076,2016-12-05,112,4,False,2016,Final,116,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+35129,2016-12-07,94,4,False,2016,Final,126,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+33961,2016-12-09,114,4,False,2016,Final,84,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat,WIN,41.496389,-81.688056
+32945,2016-12-10,116,4,False,2016,Final,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,WIN,41.496389,-81.688056
+33964,2016-12-13,103,4,False,2016,Final,86,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,WIN,41.496389,-81.688056
+33965,2016-12-14,93,4,False,2016,Final,85,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,35.138056,-90.050556
+33968,2016-12-17,119,4,False,2016,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,WIN,41.496389,-81.688056
+33764,2016-12-20,108,4,False,2016,Final,114,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.0389,-87.9065
+34075,2016-12-21,113,4,False,2016,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+33618,2016-12-23,119,4,False,2016,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+33348,2016-12-25,109,4,False,2016,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,WIN,41.496389,-81.688056
+34308,2016-12-26,106,4,False,2016,Final,90,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.341111,-83.055
+34310,2016-12-29,124,4,False,2016,Final,118,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+33353,2016-12-31,109,4,False,2016,Final,121,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.2271,-80.8431
+34186,2017-01-02,90,4,False,2016,Final,82,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,WIN,41.496389,-81.688056
+34441,2017-01-04,94,4,False,2016,Final,106,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,LOSS,41.496389,-81.688056
+33359,2017-01-06,108,4,False,2016,Final,116,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.682732,-73.975876
+34090,2017-01-08,116,4,False,2016,Final,120,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.445833,-112.071389
+34091,2017-01-10,100,4,False,2016,Final,92,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,40.7608,-111.891
+34092,2017-01-11,102,4,False,2016,Final,86,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,45.531944,-122.666667
+34448,2017-01-13,108,4,False,2016,Final,120,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.5816,-121.4944
+34451,2017-01-16,126,4,False,2016,Final,91,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+34097,2017-01-19,118,4,False,2016,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,WIN,41.496389,-81.688056
+34708,2017-01-21,115,4,False,2016,Final,118,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,LOSS,41.496389,-81.688056
+34457,2017-01-23,124,4,False,2016,Final,122,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.949167,-90.081944
+34205,2017-01-25,112,4,False,2016,Final,116,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,LOSS,41.496389,-81.688056
+34104,2017-01-27,124,4,False,2016,Final,116,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+34106,2017-01-29,107,4,False,2016,Final,91,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,WIN,41.496389,-81.688056
+33381,2017-01-30,104,4,False,2016,Final,97,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,32.790527,-96.810883
+34976,2017-02-01,125,4,False,2016,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,WIN,41.496389,-81.688056
+34113,2017-02-04,104,4,False,2016,Final,111,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+34467,2017-02-06,135,4,False,2016,Final,140,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.898129,-77.021172
+33803,2017-02-08,117,4,False,2016,Final,132,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.763889,-86.155556
+35262,2017-02-09,118,4,False,2016,Final,109,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,35.4634,-97.5151
+34117,2017-02-11,125,4,False,2016,Final,109,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,WIN,41.496389,-81.688056
+35266,2017-02-14,108,4,False,2016,Final,116,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,44.979444,-93.276111
+34222,2017-02-15,113,4,False,2016,Final,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+33811,2017-02-23,119,4,False,2016,Final,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,WIN,41.496389,-81.688056
+32948,2017-02-25,99,4,False,2016,Final,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,LOSS,41.496389,-81.688056
+35537,2017-02-27,102,4,False,2016,Final,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+33213,2017-03-01,103,4,False,2016,Final,99,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.366291,-71.06263
+33216,2017-03-03,130,4,False,2016,Final,135,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+33819,2017-03-04,120,4,False,2016,Final,92,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,25.781441,-80.188332
+33401,2017-03-06,98,4,False,2016,Final,106,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat,LOSS,41.496389,-81.688056
+33096,2017-03-09,106,4,False,2016,Final,101,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.341111,-83.055
+33223,2017-03-11,104,4,False,2016,Final,116,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,28.539167,-81.383611
+35547,2017-03-12,117,4,False,2016,Final,112,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.750833,-95.362222
+33537,2017-03-14,128,4,False,2016,Final,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+33646,2017-03-16,91,4,False,2016,Final,83,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,WIN,41.496389,-81.688056
+32851,2017-03-18,108,4,False,2016,Final,78,13,LAC,LA,West,Pacific,LA Clippers,Clippers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,34.043087,-118.267616
+33415,2017-03-19,120,4,False,2016,Final,125,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,34.043087,-118.267616
+33109,2017-03-22,126,4,False,2016,Final,113,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.74892,-105.0084
+33420,2017-03-24,105,4,False,2016,Final,112,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.2271,-80.8431
+34121,2017-03-25,115,4,False,2016,Final,127,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,LOSS,41.496389,-81.688056
+33978,2017-03-27,103,4,False,2016,Final,74,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.426944,-98.4375
+33981,2017-03-30,99,4,False,2016,Final,93,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,41.880692,-87.67437
+35413,2017-03-31,122,4,False,2016,Final,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,WIN,41.496389,-81.688056
+35414,2017-04-02,135,4,False,2016,Final,130,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+33843,2017-04-04,122,4,False,2016,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,WIN,41.496389,-81.688056
+33664,2017-04-05,91,4,False,2016,Final,114,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+33123,2017-04-07,100,4,False,2016,Final,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,LOSS,41.496389,-81.688056
+35573,2017-04-09,126,4,False,2016,Final,125,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,33.75729,-84.397331
+33433,2017-04-10,124,4,False,2016,Final,121,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,25.781441,-80.188332
+35422,2017-04-12,83,4,False,2016,Final,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,LOSS,41.496389,-81.688056
+34615,2017-10-17,102,4,False,2017,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+32866,2017-10-20,97,4,False,2017,Final,116,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.0389,-87.9065
+32867,2017-10-21,93,4,False,2017,Final,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,LOSS,41.496389,-81.688056
+34622,2017-10-24,119,4,False,2017,Final,112,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,WIN,41.496389,-81.688056
+35169,2017-10-25,112,4,False,2017,Final,107,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,40.682732,-73.975876
+35277,2017-10-28,123,4,False,2017,Final,101,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.949167,-90.081944
+34626,2017-10-29,95,4,False,2017,Final,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,LOSS,41.496389,-81.688056
+32970,2017-11-01,107,4,False,2017,Final,124,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,LOSS,41.496389,-81.688056
+32972,2017-11-03,122,4,False,2017,Final,130,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.898129,-77.021172
+35282,2017-11-05,115,4,False,2017,Final,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,LOSS,41.496389,-81.688056
+32976,2017-11-07,124,4,False,2017,Final,119,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+35285,2017-11-09,117,4,False,2017,Final,113,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.750833,-95.362222
+35440,2017-11-11,104,4,False,2017,Final,111,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,32.790527,-96.810883
+35442,2017-11-13,101,4,False,2017,Final,104,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+34746,2017-11-15,107,4,False,2017,Final,115,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.2271,-80.8431
+34636,2017-11-17,118,4,False,2017,Final,113,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,13,LAC,LA,West,Pacific,LA Clippers,Clippers,WIN,41.496389,-81.688056
+35449,2017-11-20,88,4,False,2017,Final,116,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.341111,-83.055
+35193,2017-11-22,119,4,False,2017,Final,109,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+32984,2017-11-24,100,4,False,2017,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,WIN,41.496389,-81.688056
+33148,2017-11-27,91,4,False,2017,Final,113,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.901111,-75.171944
+35454,2017-11-28,108,4,False,2017,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat,WIN,41.496389,-81.688056
+35199,2017-11-30,114,4,False,2017,Final,121,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+32899,2017-12-02,116,4,False,2017,Final,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,WIN,41.496389,-81.688056
+32900,2017-12-04,91,4,False,2017,Final,113,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,41.880692,-87.67437
+33673,2017-12-06,101,4,False,2017,Final,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,WIN,41.496389,-81.688056
+35031,2017-12-08,106,4,False,2017,Final,102,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+35032,2017-12-09,105,4,False,2017,Final,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,WIN,41.496389,-81.688056
+33454,2017-12-12,123,4,False,2017,Final,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,WIN,41.496389,-81.688056
+34659,2017-12-14,121,4,False,2017,Final,112,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,WIN,41.496389,-81.688056
+35468,2017-12-16,109,4,False,2017,Final,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,WIN,41.496389,-81.688056
+35038,2017-12-17,99,4,False,2017,Final,106,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,38.898129,-77.021172
+35470,2017-12-19,119,4,False,2017,Final,116,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.0389,-87.9065
+35473,2017-12-21,115,4,False,2017,Final,112,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,WIN,41.496389,-81.688056
+34142,2017-12-25,99,4,False,2017,Final,92,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+34671,2017-12-27,109,4,False,2017,Final,95,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,38.5816,-121.4944
+35318,2017-12-30,104,4,False,2017,Final,101,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,40.7608,-111.891
+34677,2018-01-02,127,4,False,2017,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,WIN,41.496389,-81.688056
+32920,2018-01-03,102,4,False,2017,Final,88,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.366291,-71.06263
+34682,2018-01-06,127,4,False,2017,Final,131,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,28.539167,-81.383611
+34323,2018-01-08,127,4,False,2017,Final,99,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,44.979444,-93.276111
+35053,2018-01-11,133,4,False,2017,Final,99,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.643475,-79.379379
+34886,2018-01-12,97,4,False,2017,Final,95,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+34887,2018-01-15,108,4,False,2017,Final,118,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056
+35209,2018-01-18,104,4,False,2017,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,WIN,41.496389,-81.688056
+33187,2018-01-20,124,4,False,2017,Final,148,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,LOSS,41.496389,-81.688056
+34335,2018-01-23,114,4,False,2017,Final,102,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,29.426944,-98.4375
+34897,2018-01-26,115,4,False,2017,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+34339,2018-01-28,121,4,False,2017,Final,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+35357,2018-01-30,125,4,False,2017,Final,114,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.341111,-83.055
+34773,2018-01-31,91,4,False,2017,Final,89,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat,WIN,41.496389,-81.688056
+34344,2018-02-03,88,4,False,2017,Final,120,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,LOSS,41.496389,-81.688056
+32994,2018-02-06,116,4,False,2017,Final,98,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,28.539167,-81.383611
+35368,2018-02-07,140,4,False,2017,Final,138,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,WIN,41.496389,-81.688056
+34262,2018-02-09,107,4,False,2017,Final,123,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+35594,2018-02-11,99,4,False,2017,Final,121,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+33241,2018-02-13,112,4,False,2017,Final,120,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.4634,-97.5151
+34356,2018-02-22,103,4,False,2017,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,LOSS,41.496389,-81.688056
+34358,2018-02-23,89,4,False,2017,Final,112,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.138056,-90.050556
+33005,2018-02-25,94,4,False,2017,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,LOSS,41.496389,-81.688056
+34485,2018-02-27,129,4,False,2017,Final,123,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,WIN,41.496389,-81.688056
+33008,2018-03-01,97,4,False,2017,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,LOSS,41.496389,-81.688056
+35602,2018-03-03,117,4,False,2017,Final,126,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,LOSS,41.496389,-81.688056
+34366,2018-03-05,112,4,False,2017,Final,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+33602,2018-03-07,108,4,False,2017,Final,113,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.74892,-105.0084
+35077,2018-03-09,116,4,False,2017,Final,102,13,LAC,LA,West,Pacific,LA Clippers,Clippers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,34.043087,-118.267616
+34282,2018-03-11,127,4,False,2017,Final,113,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,34.043087,-118.267616
+34375,2018-03-13,107,4,False,2017,Final,129,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.445833,-112.071389
+34503,2018-03-15,113,4,False,2017,Final,105,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,45.531944,-122.666667
+35616,2018-03-17,109,4,False,2017,Final,114,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,41.880692,-87.67437
+35087,2018-03-19,124,4,False,2017,Final,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,WIN,41.496389,-81.688056
+34925,2018-03-21,132,4,False,2017,Final,129,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+34518,2018-03-23,120,4,False,2017,Final,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,WIN,41.496389,-81.688056
+33011,2018-03-25,114,4,False,2017,Final,121,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.682732,-73.975876
+34938,2018-03-27,98,4,False,2017,Final,79,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,25.781441,-80.188332
+35620,2018-03-28,105,4,False,2017,Final,118,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,35.2271,-80.8431
+33270,2018-03-30,107,4,False,2017,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,WIN,41.496389,-81.688056
+34946,2018-04-01,98,4,False,2017,Final,87,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,WIN,41.496389,-81.688056
+34530,2018-04-03,112,4,False,2017,Final,106,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+34534,2018-04-05,119,4,False,2017,Final,115,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,WIN,41.496389,-81.688056
+33713,2018-04-06,132,4,False,2017,Final,130,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.901111,-75.171944
+34955,2018-04-09,109,4,False,2017,Final,123,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,40.750556,-73.993611
+34958,2018-04-11,98,4,False,2017,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,LOSS,41.496389,-81.688056

@@ -1,0 +1,62 @@
+id,date,home_team_score,period,postseason,season,status,visitor_team_score,home_team.id,home_team.abbreviation,home_team.city,home_team.conference,home_team.division,home_team.full_name,home_team.name,visitor_team.id,visitor_team.abbreviation,visitor_team.city,visitor_team.conference,visitor_team.division,visitor_team.full_name,visitor_team.name,outcome,latitude,longitude
+33876,2016-04-17,106,4,True,2015,Final,101,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+33879,2016-04-20,107,4,True,2015,Final,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,WIN,41.496389,-81.688056
+33881,2016-04-22,91,4,True,2015,Final,101,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.341111,-83.055
+33883,2016-04-24,98,4,True,2015,Final,100,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.341111,-83.055
+34016,2016-05-02,104,4,True,2015,Final,93,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,WIN,41.496389,-81.688056
+33892,2016-05-04,123,4,True,2015,Final,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,WIN,41.496389,-81.688056
+33894,2016-05-06,108,4,True,2015,Final,121,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+34020,2016-05-08,99,4,True,2015,Final,100,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,33.75729,-84.397331
+33903,2016-05-17,115,4,True,2015,Final,84,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33905,2016-05-19,108,4,True,2015,Final,89,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33906,2016-05-21,99,4,True,2015,Final,84,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.643475,-79.379379
+33908,2016-05-23,105,4,True,2015,Final,99,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,43.643475,-79.379379
+33910,2016-05-25,116,4,True,2015,Final,78,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33912,2016-05-27,87,4,True,2015,Final,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+33915,2016-06-02,104,4,True,2015,Final,89,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+33916,2016-06-05,110,4,True,2015,Final,77,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+33917,2016-06-08,120,4,True,2015,Final,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,WIN,41.496389,-81.688056
+33918,2016-06-10,97,4,True,2015,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056
+33919,2016-06-13,97,4,True,2015,Final,112,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,37.768056,-122.3875
+33920,2016-06-16,115,4,True,2015,Final,101,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,WIN,41.496389,-81.688056
+33921,2016-06-19,89,4,True,2015,Final,93,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,37.768056,-122.3875
+33850,2017-04-15,109,4,True,2016,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+34226,2017-04-17,117,4,True,2016,Final,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+33999,2017-04-20,114,4,True,2016,Final,119,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.763889,-86.155556
+34313,2017-04-23,102,4,True,2016,Final,106,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.763889,-86.155556
+34008,2017-05-01,116,4,True,2016,Final,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+34010,2017-05-03,125,4,True,2016,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+34476,2017-05-05,94,4,True,2016,Final,115,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+33870,2017-05-07,102,4,True,2016,Final,109,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+34604,2017-05-17,104,4,True,2016,Final,117,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+34605,2017-05-19,86,4,True,2016,Final,130,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+34607,2017-05-21,108,4,True,2016,Final,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,LOSS,41.496389,-81.688056
+34608,2017-05-23,112,4,True,2016,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+34609,2017-05-25,102,4,True,2016,Final,135,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+34610,2017-06-01,113,4,True,2016,Final,91,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+34611,2017-06-04,132,4,True,2016,Final,113,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+34612,2017-06-07,113,4,True,2016,Final,118,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056
+34613,2017-06-09,137,4,True,2016,Final,116,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,WIN,41.496389,-81.688056
+34614,2017-06-12,129,4,True,2016,Final,120,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+34544,2018-04-15,80,4,True,2017,Final,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,LOSS,41.496389,-81.688056
+33030,2018-04-18,100,4,True,2017,Final,97,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+33287,2018-04-20,92,4,True,2017,Final,90,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+33034,2018-04-22,100,4,True,2017,Final,104,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,39.763889,-86.155556
+35634,2018-04-25,98,4,True,2017,Final,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+35635,2018-04-27,121,4,True,2017,Final,87,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,39.763889,-86.155556
+35637,2018-04-29,105,4,True,2017,Final,101,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,WIN,41.496389,-81.688056
+35639,2018-05-01,112,4,True,2017,Final,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+33043,2018-05-03,110,4,True,2017,Final,128,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,43.643475,-79.379379
+33047,2018-05-05,105,4,True,2017,Final,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33051,2018-05-07,128,4,True,2017,Final,93,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,WIN,41.496389,-81.688056
+33055,2018-05-13,108,4,True,2017,Final,83,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.366291,-71.06263
+33057,2018-05-15,107,4,True,2017,Final,94,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.366291,-71.06263
+33293,2018-05-19,116,4,True,2017,Final,86,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+33295,2018-05-21,111,4,True,2017,Final,102,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+33297,2018-05-23,96,4,True,2017,Final,83,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,42.366291,-71.06263
+33299,2018-05-25,109,4,True,2017,Final,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,WIN,41.496389,-81.688056
+33301,2018-05-27,79,4,True,2017,Final,87,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,WIN,42.366291,-71.06263
+33719,2018-05-31,124,4,True,2017,Final,114,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+33720,2018-06-03,122,4,True,2017,Final,103,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,LOSS,37.768056,-122.3875
+33721,2018-06-06,102,4,True,2017,Final,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056
+33722,2018-06-08,85,4,True,2017,Final,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,LOSS,41.496389,-81.688056

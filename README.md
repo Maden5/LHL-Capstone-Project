@@ -56,9 +56,13 @@ To sum up, our analysis provides a clear picture of where the Toronto Raptors an
 ## URL of Tableau Dashboards
 
 Dashboard 1: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard1/TorontoDashboard
+
 Dashboard 2: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard2/ClevelandDashboard
+
 Dashboard 3: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard3/KyleLowryRegularandPlayoffsStats
+
 Dashboard 4: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard4/DeMarDeRozenRegularandPlayoffsStats
+
 Dashboard 5: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard5/CavsPlayoffTeamStatsAgainstRapters
 
 

@@ -37,9 +37,7 @@ The following statistical and analytical methods were utilized:
 6. Outlier Analysis: Instead of removing outliers, they were examined to understand their impact on the players' average performance, providing a more nuanced view of player capabilities during exceptional games.
 
 
-
-ChatGPT
-There are several spelling and grammatical issues in the text provided. Here's a corrected version:
+## Results
 
 Do Raptors compete a lot harder during home games, and how well do they play in the playoffs compared to the offseason? A map (Away Games) and bar graph (Home Games) were used in Tableau to show which cities Toronto has defeated during the regular season. The Raptors struggled a lot more in the Western Conference compared to the East. What I noticed was that Toronto struggled severely during away games, especially against the Cavaliers in Cleveland. The Raptors had a lot more wins (166-80 W/L) compared to the Cavaliers (158-88 W/L), but in the playoffs, they would perform severely low (18/24 W/L). This indicates they are not playing up to par in the playoffs, likely due to stress and pressure. They should not perform this low against teams they have beaten in the regular season with ease. A bar chart was used to visualize both postseason and regular season. Lastly, two pie charts were placed to show the number of points Toronto scored against opponents in the playoffs. One pie chart shows the home games and the other, away games. This gave us an understanding of the number of points they would score during home or away games, and unsurprisingly, Toronto would produce fewer points during away games by a huge average of 11 points.
 
@@ -52,3 +50,22 @@ How well does DeMar DeRozan play under pressure during away games in the playoff
 How much of an insight do the Cavaliers' stats give us? Four bar graphs were shown to give us an understanding of the Cavs' team. The averages of the entire team (points, assists, blocks, free throw attempts, steals, and turnovers) during home and away games against the Raptors in the playoffs. Two bar charts (field goal percentage, shooting percentage, free throw percentage) at home and away games against the Raptors during playoffs. We see the Cavaliers putting up high averages against the Raptors, especially in free throws and field goal/three-point percentage. Their scoring efficiency and defensive plays against the Raptors are areas Toronto can learn from. These insights are crucial for the Raptors' strategists. By studying the Cavs' approach in these winning matches, particularly their home game tactics against strong teams like Washington, Atlanta, and Chicago, and away game strategies against Miami, the Raptors can refine their game plans for the next season.
 
 To sum up, our analysis provides a clear picture of where the Toronto Raptors and Cleveland Cavaliers stand. We've pinpointed strengths and opportunities that can guide off season training and strategy development. For the Raptors, focusing on elevating away game performance and playoff resilence is key. In closing, let's channel these insights into actionable strategies. For player development, addressing the playoff performances for stars like Lowry and DeRozan is vital. For team strategy, adopting and adapting successful plays from opponents will be our focus moving forward.
+
+
+
+## URL of Tableau Dashboards
+
+Dashboard 1: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard1/TorontoDashboard
+Dashboard 2: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard2/ClevelandDashboard
+Dashboard 3: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard3/KyleLowryRegularandPlayoffsStats
+Dashboard 4: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard4/DeMarDeRozenRegularandPlayoffsStats
+Dashboard 5: https://public.tableau.com/app/profile/mohamed.aden8701/viz/LHL-Capstone_Project_MADENDashBoard5/CavsPlayoffTeamStatsAgainstRapters
+
+
+## Challenges
+
+Had major issues with the Raptors Stats dataframe, lots of missing points and dates of specific game. Had I had more time, I could of made my own date columns matching specific games thus allowing me to use it on my dashboards.
+
+## Future Goals
+
+Get into machine learning and be able to predict future outcomes. I want to improve my work with future insights, giving it a more detailed analysis. Thats a future goal of mine, to improve my skills and be able to become a data scientist with machine learning skills.
